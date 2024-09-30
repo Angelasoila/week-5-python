@@ -1,0 +1,6 @@
+This is line 1 with some text.
+The number is 42 on line 2.
+Line 3: Python is awesome!
+This is the first appended line.
+The number 100 is in this appended line.
+Appended line 3: Learning Python is fun!
